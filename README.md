@@ -1,2 +1,2 @@
 # BeatMix
-Link do site: https://arthuur-m.github.io/BeatMix/
+Link do site: https://Arthur-lMachado.github.io/BeatMix/
